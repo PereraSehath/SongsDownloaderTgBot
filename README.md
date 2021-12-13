@@ -23,7 +23,8 @@ Easy To Deploy 🤗
 
 # Deploy Heroku ✅
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PereraSehath/SongDownloaderTgBot/tree/main)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PereraSehath/SongsDownloaderTgBot)
+
 
 
 
