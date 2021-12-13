@@ -8,15 +8,8 @@ Open Source Bot 👨🏻‍💻
 
 Demo : [𝗔𝗻𝗻𝗶𝗲 - 𝗘𝗹𝗶𝘇𝗮 𝗦𝗼𝗻𝗴 𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱𝗲𝗿 𝗕𝗼𝘁🌈🎧🌟](https:t.me/AnnieElizaSongDT_Bot)
 
-Easy To Deploy 🤗
 
-## 💡 Deploy This Bot To Heroku ❓️
-```
-1) Fork The Repository,
-2) Edit config.py And Add Values API_ID, API_HASH And Your Bot Token,
-3) Create An App On Heroku And Connect Heroku With Your Github Repository, 
-4) Manual Deploy To Your Repository. 
-```
+
 ![logo](https://telegra.ph/file/9d337b3414bbf8e39ba79.jpg)
 # Reach Me On Telegram [𝗔𝗻𝗻𝗶𝗲 - 𝗘𝗹𝗶𝘇𝗮 𝗦𝗼𝗻𝗴 𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱𝗲𝗿 𝗕𝗼𝘁🌈🎧🌟](https:t.me/AnnieElizaSongDT_Bot)
 
