@@ -1,0 +1,32 @@
+{
+    "name": "Song Downloader Telegram Bot",
+    "description": "A Simple Bot To Download Music In High Quality.",
+    "logo": "https://te.legra.ph/file/db0ccbb9e06b3af188974.jpg",
+    "keywords": [
+        "Ultimate",
+        "Song Downloader bot",
+        "Telegram Bot",
+        "Kannan"
+    ],
+    "env": {
+        "BOT_TOKEN": {
+            "description": "Your Telegram Bot Token from @BotFather",
+            "value": ""
+        }
+    },
+    "addons": [],
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        },
+        {
+            "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+        }
+    ],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
