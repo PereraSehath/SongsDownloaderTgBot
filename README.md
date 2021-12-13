@@ -35,7 +35,11 @@ Easy To Deploy 🤗
 ## Devs
 
 - [Sehath Perera](https://github.com/PereraSehath) - Owner | Dev
-- [Jonathan](https://Github.com/DarkSkull93) -  Dev
+- [Jonathan](https://github.com/DarkSkull93) -  Dev
+- [Deshadeeth Thisarana](https://github.com/Deshadeeth-Thisarana) - Dev
+- [Thilina](https://github.com/Thilinaweerasekara2003) - Dev
+
+
 
 ### Support & Updates 🎑
 <a href="https://t.me/ElizaSupporters"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/Updates_of_ElizaBot"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
