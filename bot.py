@@ -17,4 +17,3 @@ if __name__ == "__main__" :
         plugins=plugins
     )
     bot.run()
-© 2021 GitHub, Inc.
