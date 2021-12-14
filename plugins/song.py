@@ -35,7 +35,6 @@ async def help(client, message):
             [
                 [
                     InlineKeyboardButton('Developer', url='https://t.me/SehathSanvidu')
-                    InlineKeyboardButton('Source Code', url='https://github.com/PereraSehath/SongsDownloaderTgBot')
                 ]
             ]
         )
